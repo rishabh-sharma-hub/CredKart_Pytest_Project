@@ -1,0 +1,42 @@
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:97  TestCase test_user_login_by_excel_005 is started
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:105 Opening browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:111  Entering email alejandra93@example.net
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:115  Entering password
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:119  Clicking on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:122 Click on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:124 Login Pass
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:125 Clicking on menu button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:127 Clicking on logout button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:129 Taking screenshot for login pass
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:134 TestCase test_user_login_param_005 is passed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:147 Writing data into Excel File
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:105 Opening browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:111  Entering email alejandra93@example.net
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:115  Entering password
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:119  Clicking on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:122 Click on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:138 Login Fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:139 Taking screenshot for login fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:144 TestCase test_user_login_param_005 is failed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:147 Writing data into Excel File
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:105 Opening browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:111  Entering email alejand@example.net
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:115  Entering password
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:119  Clicking on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:122 Click on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:138 Login Fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:139 Taking screenshot for login fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:144 TestCase test_user_login_param_005 is failed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:147 Writing data into Excel File
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:105 Opening browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:111  Entering email alejand@example.net
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:115  Entering password
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:119  Clicking on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:122 Click on login button
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:138 Login Fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:139 Taking screenshot for login fail
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:144 TestCase test_user_login_param_005 is failed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:147 Writing data into Excel File
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:161 All Test Cases Passed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:162 TestCase test_user_login_param_005 is passed
+[32mINFO    [0m root:test_CredKart_user_profile_002.py:168 TestCase test_user_login_param_005 is completed

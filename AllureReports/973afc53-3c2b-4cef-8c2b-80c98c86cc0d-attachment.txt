@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:39 Testcase test_CredKart_URL_001 is started
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:41 Opening browser and landing on https://automation.credence.in
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:42 Checking page title
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:44 Page title is correct and landed on correct url
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:45 Taking Screenshot
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:50 test_CredKart_URL_001 is pass
+[32mINFO    [0m root:test_CredKart_user_profile_001.py:59 Testcase test_Credkart_URL_001 is completed
